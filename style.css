@@ -121,7 +121,7 @@ main {
     font-weight: var(--weight-normal);
     margin-top: .7rem;
     line-height: 2.2rem;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
 }
 
 .card__img {
@@ -130,7 +130,7 @@ main {
     margin-top: auto;
 }
 
-@media (max-width: 1042px) {
+@media (max-width: 1108px) {
     .header {
         margin-top: 10rem;
         max-width: 32rem;
