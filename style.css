@@ -12,7 +12,7 @@
     --weight-normal: 400;
     --weight-bold: 600;
 
-    --shadow-very-dark-blue: 0 1.5rem 1.5rem rgba(84, 158, 242, 20%);;
+    --shadow-very-dark-blue: 0 1.5rem 1.5rem rgba(77 125 181 / 20%);;
 }
 
 * {
@@ -45,7 +45,7 @@ body {
 
 .header__title {
     font-size: 3.5rem;
-    line-height: 4.4rem;
+    line-height: 5rem;
     font-weight: var(--weight-light);
 }
 
@@ -72,8 +72,8 @@ main {
 }
 
 .card {
-    max-width: 33rem;
-    height: 23rem;
+    max-width: 34rem;
+    height: 24rem;
     box-shadow: var(--shadow-very-dark-blue);
     margin: 2.6rem 1.3rem;
     padding: 3rem;
@@ -125,7 +125,7 @@ main {
 }
 
 .card__img {
-    height: 5.5rem;
+    height: 6rem;
     align-self: flex-end;
     margin-top: auto;
 }
@@ -133,7 +133,7 @@ main {
 @media (max-width: 1042px) {
     .header {
         margin-top: 10rem;
-        max-width: 33rem;
+        max-width: 32rem;
     }
 
     .header__title {
