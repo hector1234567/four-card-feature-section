@@ -44,7 +44,7 @@ body {
 }
 
 .header__title {
-    font-size: 3.2rem;
+    font-size: 3.5rem;
     line-height: 4.4rem;
     font-weight: var(--weight-light);
 }
@@ -57,7 +57,7 @@ body {
 
 .header__text {
     font-weight: var(--weight-bold);
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     margin-top: 1.4rem;
 }
 
@@ -72,8 +72,8 @@ main {
 }
 
 .card {
-    max-width: 32rem;
-    height: 22.7rem;
+    max-width: 33rem;
+    height: 23rem;
     box-shadow: var(--shadow-very-dark-blue);
     margin: 2.6rem 1.3rem;
     padding: 3rem;
@@ -133,7 +133,7 @@ main {
 @media (max-width: 1042px) {
     .header {
         margin-top: 10rem;
-        max-width: 32rem;
+        max-width: 33rem;
     }
 
     .header__title {
